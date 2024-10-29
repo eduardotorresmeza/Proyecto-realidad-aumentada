@@ -1,0 +1,37 @@
+<resources>
+    <!-- Por defecto: NavAR -->
+    <string name="app_name">NavAR</string>
+
+    <!-- Maps-Activity -->
+    <string name="access_token" translatable="false">@string/mapbox_access_token</string>
+    <!--
+    <string name="navar_map_style" translatable="false">mapbox://styles/sputniksea/cjz0buo7i5j0z1cp04katc3dr</string>
+    <string name="blue_map_style" translatable="false">mapbox://styles/mapbox/cj7bwwv3caf7l2spgukxm8bwv</string>
+    -->
+    <string name="purple_map_style" translatable="false">mapbox://styles/mapbox/cj7bww7is2f4i2rnwyxkzpwu7</string>
+    <string name="blue_map_style" translatable="false">mapbox://styles/sputniksea/cjz0buo7i5j0z1cp04katc3dr</string>
+    <string name="terminal_map_style" translatable="false">mapbox://styles/mapbox/cj62n87yx3mvi2rp93sfp2w9z</string>
+    <string name="map_view">Map view</string>
+    <string name="failure_to_load_file">Error al cargar el archivo local de ubicaciones. Intente volver a cargar la aplicación.</string>
+    <string name="mock_location_title">Ubicación falsa del dispositivo</string>
+    <string name="select_a_theme">Seleccione un tema</string>
+    <string name="no_internet_message">¡No es posible dibujar la ruta porque no hay conexión a Internet!</string>
+    <string name="failure_to_retrieve">¡Error al recuperar la ruta de navegación!</string>
+
+    <!-- CardView -->
+    <string name="hours">Hours</string>
+    <string name="phone">Phone</string>
+    <string name="distance">km</string>
+
+    <!-- Strings utilizadas para la navegación mapbox -->
+    <string name="user_location_permission_explanation">Esta aplicación necesita permisos de ubicación para mostrar su funcionalidad.</string>
+    <string name="user_location_permission_not_granted">No concediste permisos de ubicación.</string>
+
+    <!-- Strings utilizadas para la ubicacion del usuario -->
+    <string name="access_token_map" translatable="false">pk.eyJ1Ijoic3B1dG5pa3NlYSIsImEiOiJjazQxdWM2cmgwNWFyM2txY2RydXp2ZWQzIn0.f_I6jsVNL2HajPXzwEXuRQ</string>
+    <string name="new_location">New lat: %1$s New longitude: %2$s</string>
+    <string name="current_location">Lat: %1$f Long: %2$f</string>
+    <string name="tracking_enabled">Modo de seguimiento reactivado</string>
+    <string name="tracking_already_enabled">Seguimiento habilitado. Mover el mapa</string>
+
+</resources>

@@ -1,0 +1,134 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza de Armas del Cusco",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "address": "Calle Plateros 326, Cusco 08000",
+        "imgcardv": "https://i.pinimg.com/736x/03/3d/06/033d0637ed06a271485fa3b955fad475.jpg",
+        "imgone": "https://www.enperu.org/cusco/wp-content/uploads/2016/12/Plaza_Armas_Cusco.jpg",
+        "imgtwo": "https://www.101viajes.com/sites/default/files/guia_imagen/centro-historico.jpg",
+        "imgthree": "https://thumbs.dreamstime.com/b/opini%C3%B3n-a%C3%A9rea-plaza-de-armas-en-cusco-per%C3%BA-85688074.jpg",
+        "typepoi": "Plaza Mayor",
+        "description": "La plaza de Armas es el centro de la ciudad peruana del Cuzco desde antes de su fundación española en 1534.
+                        Antiguamente existía allí un pantano, y está atravesado por el río Saphy (actualmente canalizado y cubierto). Durante el imperio incaico dicho pantano fue secado y se transformó en el centro administrativo, religioso y cultural de la capital imperial.
+                        Ahí se realizaba todo tipo de ceremonias y se celebraban las victorias del ejército inca. Después de la conquista española, fue transformada en una plaza por los nuevos gobernantes, quienes construyeron templos católicos y mansiones sobre las ruinas de los antiguos palacios incas. En esta plaza, fue ejecutado Túpac Amaru II en 1781 así como el cacique Bernardo Tambohuacso, Mateo Pumacahua y varios otros próceres de la independencia del Perú.",
+        "keypoi": "P001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -71.97881,
+        -13.51677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catedral Basílica de la Virgen de la Asunción",
+        "hours": "9am - 4pm",
+        "phone": "(555) 555-9430",
+        "address": "‎Plaza de Armas s/n 08002",
+        "imgcardv": "https://photos.wikimapia.org/p/00/03/63/01/75_big.jpg",
+        "imgone": "https://static.tripexpert.com/images/venue_photos/profile/7579144.jpg?1481116299",
+        "imgtwo": "https://www.andeanhiking.com/wp-content/uploads/2018/09/iglesia.jpg",
+        "imgthree": "https://www.wamanadventures.com/blog/wp-content/uploads/2018/05/La-Catedral-Waman-Adventures-2.jpg",
+        "typepoi": "Museo",
+        "description": "Mont Blanc, Italian Monte Bianco, mountain massif and highest peak (15,771 feet [4,807 metres]) in Europe.
+                Located in the Alps, the massif lies along the French-Italian border and reaches into Switzerland. It has survived not only f
+                ive centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s w
+                ith the release of Letraset sheets co",
+        "keypoi": "P002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.97787881866017,
+          -13.516275111721242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wayna Taucaray",
+        "hours": "10am - 8pm",
+        "phone": "(555) 555-4839",
+        "address": "Location #3 description",
+        "imgcardv": "https://arqueologiadelperu.com/wp-content/uploads/2017/04/Portada-de-Rumiqolqa-Pikillacta-0015-1-800x480.jpg",
+        "imgone": "https://i.pinimg.com/736x/03/3d/06/033d0637ed06a271485fa3b955fad475.jpg",
+        "imgtwo": "https://i.pinimg.com/736x/03/3d/06/033d0637ed06a271485fa3b955fad475.jpg",
+        "imgthree": "https://i.pinimg.com/736x/03/3d/06/033d0637ed06a271485fa3b955fad475.jpg",
+        "typepoi": "Museo",
+        "description": "Mont Blanc, Italian Monte Bianco, mountain massif and highest peak (15,771 feet [4,807 metres]) in Europe.
+                Located in the Alps, the massif lies along the French-Italian border and reaches into Switzerland. It has survived not only f
+                ive centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s w
+                ith the release of Letraset sheets co",
+        "keypoi": "P003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.93795247467037,
+          -13.547151997981459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Complejo Arqueologico Susumarca",
+        "hours": "8am - 5:30pm",
+        "phone": "(555) 555-1989",
+        "address": "Location #4 description",
+        "imgcardv": "https://mapio.net/images-p/12846496.jpg",
+        "imgone": "https://i.pinimg.com/736x/03/3d/06/033d0637ed06a271485fa3b955fad475.jpg",
+        "imgtwo": "https://i.pinimg.com/736x/03/3d/06/033d0637ed06a271485fa3b955fad475.jpg",
+        "imgthree": "https://i.pinimg.com/736x/03/3d/06/033d0637ed06a271485fa3b955fad475.jpg",
+        "typepoi": "Museo",
+        "description": "Mont Blanc, Italian Monte Bianco, mountain massif and highest peak (15,771 feet [4,807 metres]) in Europe.
+                Located in the Alps, the massif lies along the French-Italian border and reaches into Switzerland. It has survived not only f
+                ive centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s w
+                ith the release of Letraset sheets co",
+        "keypoi": "P004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.92589003381725,
+          -13.509126602410191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pumamarca",
+        "hours": "9:30am - 6pm",
+        "phone": "(555) 555-4345",
+        "address": "Location #5 description",
+        "imgcardv": "https://www.explorandes.com/es/wp-content/uploads/2018/03/sitio-arqueologico-pumamarca-peru-1280x720.jpg",
+        "imgone": "https://i.pinimg.com/736x/03/3d/06/033d0637ed06a271485fa3b955fad475.jpg",
+        "imgtwo": "https://i.pinimg.com/736x/03/3d/06/033d0637ed06a271485fa3b955fad475.jpg",
+        "imgthree": "https://i.pinimg.com/736x/03/3d/06/033d0637ed06a271485fa3b955fad475.jpg",
+        "typepoi": "Museo",
+        "description": "Mont Blanc, Italian Monte Bianco, mountain massif and highest peak (15,771 feet [4,807 metres]) in Europe.
+                Located in the Alps, the massif lies along the French-Italian border and reaches into Switzerland. It has survived not only f
+                ive centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s w
+                ith the release of Letraset sheets co",
+        "keypoi": "P005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9393426786031,
+          -13.516237740651164
+        ]
+      }
+    }
+  ]
+}
